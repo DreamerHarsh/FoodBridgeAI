@@ -1,4 +1,4 @@
-# FoodBridge AI — 3-hour prototype
+# FoodBridge AI
 ## Run on Windows
 1. Install Python 3.10+.
 2. Extract this ZIP and open a terminal in the `FoodBridgeAI_Starter` folder.
